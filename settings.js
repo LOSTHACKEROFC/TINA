@@ -15,22 +15,22 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '93916a563c0a', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
 global.owner = ['919536476115']
 global.premium = ['919536476115']
 global.ownernomer = '919536476115'
-global.ownername = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍'
-global.botname = 'ＴＩＮΛ'
-global.footer = 'ＴＩＮΛ ❤️😎👨🏻‍💻'
+global.ownername = 'GSM-ADJAA'
+global.botname = 'gsm_adjaa'
+global.footer = 'GSM-ADJAA ❤️😎👨🏻‍💻'
 global.ig = 'https://github.com/LOSTHACKEROFC'
-global.region = 'India, North India, UTTRAKHAND'
-global.sc = 'https://github.com/LOSTHACKEROFC/TINA'
+global.region = 'Togo, North Lome, ROAD'
+global.sc = 'https://github.com/jacquesTech/TINA'
 global.myweb = 'https://www.youtube.com/channel/UCOYVQIN4SGwaKV2ukY5FgdA'
 global.packname = 'ＴＩＮΛ 👨🏻‍💻❤️'
-global.author = '𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍 ❤️'
+global.author = 'GSM-ADJAA ❤️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
